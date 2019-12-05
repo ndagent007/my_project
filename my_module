@@ -6,6 +6,6 @@ exam_data = {'name': ['Anastasia', 'Dima', 'Katherine', 'James', 'Emily', 'Micha
              
 import pandas as pd
 
-examination_df=pd.DataFrame(exam_data)
+df=pd.DataFrame(exam_data)
 
-print(examination_df)
+print(df)
